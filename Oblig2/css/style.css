@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(73, 46, 196, 0.232);
+    background-color: rgba(73, 46, 196, 0.232) !important;
     font-family:Arial;
     line-height: 1,5;
   }
@@ -12,7 +12,4 @@ body {
 }
 footer {
   background-color: #ccc;
-}
-.list{
-    color: blue !important;
 }
