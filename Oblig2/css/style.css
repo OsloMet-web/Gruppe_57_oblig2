@@ -14,5 +14,5 @@ footer {
   background-color: #ccc;
 }
 .list{
-    color: blue;
+    color: blue !important;
 }
