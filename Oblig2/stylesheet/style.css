@@ -33,12 +33,12 @@ body {
   text-align: center;
 }
 
-.title1 {
+.journalist {
   display: inline-block;
   size: 18px;
   color: rgb(255, 89, 0);
 }
-.title2{
+.date{
   display: inline-block;
   color: #4e4c4c;
 }
